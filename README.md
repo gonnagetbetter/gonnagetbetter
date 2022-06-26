@@ -5,5 +5,5 @@
 <code>🧻 Current [project](https://github.com/gonnagetbetter/deliveryCrab)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C, C++</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
-<code>💬 telegram: [@ShadowRenegade](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@ShadowRenegade](https://telegram.me/ShadowRenegade)</code>
 <code>📫 [shadowofrenegade@gmail.com](mailto:your-email)</code>
